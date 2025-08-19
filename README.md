@@ -141,7 +141,8 @@ MOV [2000H],AX
 
 ## OUTPUT
 
-<img width="1372" height="549" alt="Screenshot 2025-08-19 091413" src="https://github.com/user-attachments/assets/aebb12af-fbc3-4bb3-9780-87e3aa0234ab" />
+<img width="1373" height="542" alt="Screenshot 2025-08-19 091059" src="https://github.com/user-attachments/assets/9c194db0-51df-4eec-922a-9748b3edb9c8" />
+
 
 ## XOR
 ```
