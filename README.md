@@ -186,6 +186,7 @@ ret
 
 
 ## Result :
+The execution of ALP on fundamental arithmetic and logical operations is successfully completed
  
 
 
