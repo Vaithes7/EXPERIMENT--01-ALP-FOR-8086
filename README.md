@@ -1,6 +1,6 @@
 # EXPERIMENT 01- ARITHMETIC OPERATION AND LOGICAL OPERATION IN 8086
 # Name : Vaitheswaran N
-# Roll no : 21224110059
+# Roll no : 212224110059
 # Date of experiment : 19.08.25
 
 
